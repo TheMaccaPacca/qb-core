@@ -41,6 +41,7 @@ QBShared.Round = function(value, numDecimalPlaces)
     return math.floor((value * power) + 0.5) / (power)
 end
 
+--Testing
 
 QBShared.StarterItems = {
     ['phone'] = { amount = 1, item = 'phone' },
